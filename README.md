@@ -21,7 +21,8 @@ I’m working on new projects every 1–2 days to improve my Java skills in both
 - **Language**: Java (JDK 17 or latest)  
 - **Version Control**: Git & GitHub
   
-## 🛠️ How to Run
+#### ⚡ Made with Java & a hero’s courage
 
-- Compile: `javac src/Filename.java`
-- Run: `java Filename`
+Every project in this repo was forged with **Java**, fueled by **coffee**, and tempered in the fires of **runtime errors**.  
+Handle with care: side effects include coding enlightenment and occasional existential dread.
+
