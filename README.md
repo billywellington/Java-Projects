@@ -12,11 +12,15 @@ I’m working on new projects every 1–2 days to improve my Java skills in both
 
 ## 📂 Projects
 
-1. **Basics - Hello World** → First Java program.
-2. **Calculator App** → Simple calculator using `Scanner`.
-3. **Guess the Number Game** → Random number guessing game.
-4. _(more coming...)_
+1. **Calculator App** → Simple calculator using `Scanner`.
+2. _(more coming...)_
 
+## 🛠️ Tools Used
+
+- **IDE**: IntelliJ IDEA  
+- **Language**: Java (JDK 17 or latest)  
+- **Version Control**: Git & GitHub
+  
 ## 🛠️ How to Run
 
 - Compile: `javac src/Filename.java`
