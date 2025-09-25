@@ -13,7 +13,8 @@ I’m working on new projects every 1–2 days to improve my Java skills in both
 ## 📂 Projects
 
 1. **Calculator App** → Simple calculator using `Scanner`.
-2. _(more coming...)_
+2. **To Do List App** → Simple to do list app.
+3. _(more coming...)_
 
 ## 🛠️ Tools Used
 
